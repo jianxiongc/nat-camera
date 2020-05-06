@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "NatCamera"
-  s.version      = "0.0.2"
+  s.name         = "XCNatCamera"
+  s.version      = "0.0.4"
   s.summary      = "Nat.js Module: Camera."
 
   # This description is used to generate tags and improve search results.
@@ -53,7 +53,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "nat" => "hi@natjs.com" }
+  s.author             = { "nat" => "jianxiong_1997@126.com" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/natjs/nat-camera.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/jianxiongc/nat-camera.git", :tag => "0.0.4" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
